@@ -1,0 +1,22 @@
+{
+  "name": "imageCDN-webpack-loader",
+  "version": "1.0.0",
+  "description": "webpack为图片添加域名",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuanjinliang/imageCDN-webpack-loader.git"
+  },
+  "author": "xuanjinliang",
+  "license": "ISC",
+  "devDependencies": {
+    "loader-utils": "^0.2.16"
+  },
+  "bugs": {
+    "url": "https://github.com/xuanjinliang/imageCDN-webpack-loader/issues"
+  },
+  "homepage": "https://github.com/xuanjinliang/imageCDN-webpack-loader#readme"
+}
