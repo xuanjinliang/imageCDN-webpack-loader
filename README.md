@@ -28,7 +28,7 @@
 	....................
 	module: {
         loaders: [
-                        {
+             {
                 test: /\.(jpe?g|png|gif|svg)$/,
                 loaders:[
                     'imageCDN-webpack?'+imageCDN ,
